@@ -63,7 +63,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onStart() {
         super.onStart();
-        Uri uri=Uri.parse("https://edge4.bioscopelive.com/hls/428qKszRSGMNdxLazHoqmQ/1571749245/my_tv.m3u8");
+        Uri uri=Uri.parse("http://tptv.cz:80/james7514/kYAhUNh1SB/18114");
 
         mMediaPlayer.attachViews(mVideoLayout, null, ENABLE_SUBTITLES, USE_TEXTURE_VIEW);
 
