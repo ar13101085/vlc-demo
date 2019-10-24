@@ -1,0 +1,2 @@
+include ':app', ':dynamiclib'
+rootProject.name='demo-vlc'
